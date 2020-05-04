@@ -1,3 +1,8 @@
-A Stricker Games implemented in VanillaJS
+### Desc
+A Stricker Games implemented in VanillaJS.
 
-To start the game Clone the repo and open index.html
+### Usage
+Just open index.html
+
+### Note:
+The Project was build for a fun way of implementing clean code and OOPS concepts in JS
